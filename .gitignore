@@ -1,0 +1,10 @@
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+control_systems/.ipynb_checkpoints/
+
+# Ignore virtual environment
+venv/
+
+# Ignore other unnecessary files
+__pycache__/
+*.pyc
